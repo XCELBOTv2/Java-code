@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class arraylists {
+public class array {
     public static void main(String[] args) {
         int c;
         
@@ -85,4 +85,5 @@ public class arraylists {
             }
             
     }
+
 
